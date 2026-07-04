@@ -37,7 +37,6 @@ We conducted performance evaluations across different training durations. The Mo
 * **Configuration**: Batch size = 1.
 * **Analysis**: Doubling the training epochs resulted in a significant increase in the Dice Score ($\approx 16.4\%$) and IoU ($\approx 26.7\%$), confirming that the model effectively learns to distinguish complex wound boundaries from healthy skin.
 
-## How to add your own visualization
-To demonstrate your model's 0.77 Dice score, create a comparison figure showing the **Original Image**, **Ground Truth**, and **Predicted Mask**. Add it to this README using this syntax:
+
 
 
