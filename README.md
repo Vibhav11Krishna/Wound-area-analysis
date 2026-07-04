@@ -1,4 +1,4 @@
-# Wound-area-analysis
+
 # Wound Area Analysis using U-Net (MobileNetV2 Encoder)
 
 ## Project Overview
