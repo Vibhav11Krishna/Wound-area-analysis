@@ -1,5 +1,5 @@
 
-# Wound Area Analysis using U-Net (MobileNetV2 Encoder)
+# Wound Area Analysis using  Deep Learning Model U-Net (MobileNetV2 Encoder)
 
 ## Project Overview
 This project implements an advanced semantic segmentation pipeline designed to identify and isolate wound areas from medical images. By utilizing a **MobileNetV2 encoder** paired with a **U-Net decoder**, the model balances high-speed feature extraction with precise spatial reconstruction.
