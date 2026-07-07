@@ -31,8 +31,12 @@ We conducted performance evaluations across different training durations. The Mo
 | Metric | 10 Epochs | 20 Epochs |
 | :--- | :--- | :--- |
 | **Test Accuracy** | 0.9742 | 0.9804 |
-| **Dice Score** | 0.6655 | 0.7746 |
-| **IoU Score** | 0.4987 | 0.6321 |
+| **Dice Score** | 0.6655 | 0.7446 |
+| **IoU Score** | 0.4987 | 0.5921 |
+
+|**Precision**|  0.84542   |
+|**Recall**|   0.6374   |
+|**F1 Score**|   0.7497 |
 
 * **Configuration**: Batch size = 1.
 * **Analysis**: Doubling the training epochs resulted in a significant increase in the Dice Score ($\approx 16.4\%$) and IoU ($\approx 26.7\%$), confirming that the model effectively learns to distinguish complex wound boundaries from healthy skin.
